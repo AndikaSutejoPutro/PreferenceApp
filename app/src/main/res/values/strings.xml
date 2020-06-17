@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">LoginPreferenceApp</string>
+    <string name="welcome">Selamat Datang</string>
+    <string name="login">Sepak Bola</string>
+    <string name="logout">Logout</string>
+</resources>
